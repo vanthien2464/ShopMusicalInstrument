@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchShop", "WatchShop\WatchShop.csproj", "{D07A40FD-348D-453F-8022-3D488363E0DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEME", "WatchShop\MEME.csproj", "{D07A40FD-348D-453F-8022-3D488363E0DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{5EEA69AD-3344-4139-9260-585B582C6ACA}"
 EndProject
@@ -32,6 +32,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F8BE0D67-AF17-4C4E-8292-D684AA6CDA2C}
+		SolutionGuid = {9C388A03-2AAF-4A62-88BD-498936BC75FC}
 	EndGlobalSection
 EndGlobal
